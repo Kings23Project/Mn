@@ -10155,3 +10155,29 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [15Jul2025 16:50:35.591] [Server thread/WARN] [ModernFix/]: Dedicated server took 134.518 seconds to load
 [15Jul2025 16:50:35.601] [Server thread/INFO] [neruina/]: Auto report config loaded for mod: "copycats"
 [15Jul2025 16:50:42.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7268ms or 145 ticks behind
+[15Jul2025 18:19:55.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15Jul2025 18:19:55.459] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[15Jul2025 18:19:55.493] [Server thread/INFO] [VivecraftServer/]: Vivecraft: shutting down vivecraft scheduler
+[15Jul2025 18:19:55.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15Jul2025 18:19:55.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15Jul2025 18:19:55.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15Jul2025 18:19:56.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15Jul2025 18:19:58.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15Jul2025 18:19:58.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/voidscape:void
+[15Jul2025 18:19:58.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15Jul2025 18:19:58.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[15Jul2025 18:19:58.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[15Jul2025 18:19:58.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[15Jul2025 18:19:58.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15Jul2025 18:19:58.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15Jul2025 18:19:58.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[15Jul2025 18:19:58.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15Jul2025 18:19:58.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[15Jul2025 18:19:58.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[15Jul2025 18:19:58.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[15Jul2025 18:19:58.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15Jul2025 18:19:58.839] [Server thread/INFO] [Framework/]: Unloading server configs...
+[15Jul2025 18:19:58.840] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[15Jul2025 18:19:58.844] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[15Jul2025 18:19:58.850] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[15Jul2025 18:19:58.853] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
