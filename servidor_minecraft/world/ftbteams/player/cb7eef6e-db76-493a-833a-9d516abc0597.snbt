@@ -1,0 +1,15 @@
+{
+	id: "cb7eef6e-db76-493a-833a-9d516abc0597"
+	type: "player"
+	player_name: "Webby80es"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Webby80es"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59E4"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

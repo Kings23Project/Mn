@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d1fb9deb26133a4aa24b6512a047408a"
+	name: "Webby80es#d1fb9deb"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
